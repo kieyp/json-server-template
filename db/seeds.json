@@ -1,84 +1,85 @@
 {
-  "Stock": [
+  "stock": [
     {
       "id": 1,
-      "Name": "Gilbeys Gin",
-      "Description": "Perfect Gin for an Evening after work",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493600/20210121_1447091-1-scaled-1_wqg3ho.jpg",
-      "Price":"1000"
+      "Name": "Captian Morgan",
+      "Description": "Sail the seven seas with a pirate heart",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566888/Untitled-800-_-800-mm-800-_-800-mm-92-441x441_xkhm6o.png",
+      "Price":"1,200"
     
     },
     {
       "id": 2,
-      "Name": "Casamigos Blanco",
+      "Name": "White Lace Gin",
       "Description": "For a night you will never remember",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493600/CASAMIGOS-BLANCO-375ML-HALF-SIZE-BTL_as36rj.jpg",
-      "Price":"7000" 
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566888/Untitled-800-x-800-mm-32-441x441_k7nash.png",
+      "Price":"1,700"
     
     },
     {
       "id": 3,
-      "Name": "Remy Martin Louis XIII",
-      "Description": "For the most special of occassions",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493594/20170517-1830034-1024x683_vlaed3.webp",
-      "Price":"3000"
+      "Name": "Smirnoff Vodka",
+      "Description": "Made for the Russian within you",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566888/Untitled-800-x-800-mm-11-441x441_rglaw3.png",
+      "Price":"2,100"
     
     },
     {
       "id": 4,
-      "Name": "Guiness Beer",
+      "Name": "Striped Horse Beer",
       "Description": "The GentleMan's drink",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493595/1000_F_303997841_11EcGovpw12DUfCVZZXkDJLciyhmcygU_gvdbpe.jpg",
-      "Price":"3500"
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566888/Untitled-800-x-800-mm-18-441x441_znas2c.webp",
+      "Price":"350"
     
     },
     {
       "id": 5,
-      "Name": "Jameson Whiskey",
-      "Description": "Give a pot of Gold to the Irish in you",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493596/Jameson-Irish-Whiskey-1970-1980s-The-Umbrella-Project-online-shop-square-01_ljzjrz.jpg",
-      "Price":"1055"
+      "Name": "Red Wine",
+      "Description": "Give some grapes to the Italian in you",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566887/Untitled-800-_-800-mm-24-441x441_onqnpy.png",
+      "Price":"1700"
     
     },
     {
       "id": 6,
-      "Name": "Azul Tequila",
+      "Name": "Beluga Tequila",
       "Description": "Crafted to perfection",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493596/images_p8vtks.jpg",
-      "Price":"5000"
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566887/Untitled-800-x-800-mm-4-441x441_w4curx.webp",
+      "Price":"7,000"
     
     },
     {
       "id": 7,
       "Name": "Tremana Tequila",
       "Description": "Goes nicely on the Rocks",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493598/Teremana-Reposado-Tequila_nsjkvi.jpg",
-      "Price":"1200"
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566888/Untitled-800-x-800-mm-20-441x441_frnt4g.png",
+      "Price":"9,000"
     
     },
     {
       "id": 8,
-      "Name": "Black Label",
+      "Name": "Blue Label",
       "Description": "if this was a movie it would be the perfect blend between Men In Black And Hangover ",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493599/IMG_0563-scaled_jv3del.jpg",
-      "Price":"1700"
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566891/Untitled-800-x-800-mm-1-441x441_atrd3x.png",
+      "Price":"32,000"
     
     },
     {
       "id": 9,
-      "Name": "Gordons Gin",
+      "Name": "Bacardi Gin",
       "Description": "Perfect Gin for an Evening before work. Just kidding, Maybe.",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493596/Gordons-Gin-Front-Of-Bottle-v2-1_xf42ru.jpg",
-      "Price":"2100"
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566887/Untitled-800-_-800-mm-39-441x441_fqx9pl.png",
+      "Price":"3,000"
     
     },
     {
       "id": 10,
-      "Name": "Heineken beer",
+      "Name": "Jose Cuervo",
       "Description": "There is a reason the sponsor the Chmpions league",
-      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493595/photo-1618885472179-5e474019f2a9_flhfwb.avif",
-      "Price":"4300"
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702566887/Untitled-800-_-800-mm-800-_-800-mm-80-441x441_lo0b5g.png",
+      "Price":"3,200"
     
     } 
   ]
 }
+
