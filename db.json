@@ -1,0 +1,31 @@
+{
+  "orders": [
+    {
+      "order_id": 1,
+      "user_id": 1,
+      "products": [
+        {"product_id": 101, "quantity": 2},
+        {"product_id": 102, "quantity": 1}
+      ],
+      "total": 109.97
+    },
+    {
+      "order_id": 2,
+      "user_id": 2,
+      "products": [
+        {"product_id": 101, "quantity": 1}
+      ],
+      "total": 29.99
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 1,
+      "name": "Electronics"
+    },
+    {
+      "category_id": 2,
+      "name": "Clothing"
+    }
+  ]
+}
